@@ -1,0 +1,10 @@
+{
+    "name": "tom/design-patterns-test",
+    "authors": [
+        {
+            "name": "Tomas Stiller",
+            "email": "mail@tomas.de"
+        }
+    ],
+    "require": {}
+}
