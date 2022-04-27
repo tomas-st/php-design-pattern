@@ -4,3 +4,10 @@ On Ubuntu 16+. I use WSL 2
 
 heroku create -a php-design-pattern
 heroku git:remote -a php-design-pattern
+
+heroku buildpacks:set heroku/php
+
+Deploy with
+git add .
+git commit -am "Crazy Feature!"
+git push heroku main
