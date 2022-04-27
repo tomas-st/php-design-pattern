@@ -1,6 +1,6 @@
 <?php
 
-namespace SF\Creational\AbstractFactory;
+namespace MyApp\Creational\AbstractFactory;
 
 /**
  * unabhängigkeit von Erzeugung von Produkten

@@ -1,6 +1,6 @@
 <?php
 
-namespace SF\Structural\Facade;
+namespace MyApp\Structural\Facade;
 
 class Access
 {

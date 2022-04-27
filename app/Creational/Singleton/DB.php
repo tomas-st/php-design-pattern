@@ -1,6 +1,6 @@
 <?php
 
-namespace SF\Creational\Singleton;
+namespace MyApp\Creational\Singleton;
 
 /**
  * Bewertung: 
