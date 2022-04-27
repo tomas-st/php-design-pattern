@@ -1,0 +1,15 @@
+{
+  "name": "tom/design-patterns-test",
+  "authors": [
+    {
+      "name": "Tomas Stiller",
+      "email": "mail@tomas.de"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "SF\\": "src/SF/"
+    }
+  }
+}
